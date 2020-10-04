@@ -8,4 +8,7 @@
 
 
 ## Summary Statistics on Suspension Coils
-  - 
+![Screen Shot 2020-10-04 at 3 43 01 PM](https://user-images.githubusercontent.com/67085043/95027261-28266300-0665-11eb-9152-3264ff353fb9.png)
+![Screen Shot 2020-10-04 at 3 43 07 PM](https://user-images.githubusercontent.com/67085043/95027258-265c9f80-0665-11eb-8fe2-33ffb860025a.png)
+
+The current manufacturing data meet does not design specification for all manufacturing lots in total and each lot individually as the variance is for lot 3 is way more than lot 1 and 2. 
