@@ -12,3 +12,15 @@
 ![Screen Shot 2020-10-04 at 3 43 07 PM](https://user-images.githubusercontent.com/67085043/95027258-265c9f80-0665-11eb-8fe2-33ffb860025a.png)
 
 The current manufacturing data meet does not design specification for all manufacturing lots in total and each lot individually as the variance is for lot 3 is way more than lot 1 and 2. 
+
+
+
+
+
+## Study Design: MechaCar vs Competition
+  To quantify how the MechaCar performs against the competition, I would test the manufacturing cost, horsepower, fuel efficiency, and comfort. 
+  Null Hypothesis: MechaCar performs better than the competition in multiple factors.
+  I would choose Independent T-test to test the hypothesis because it would allow me to compare the same variables from different samples.
+  We will need the data for variables such as the cost, fuel efficiency, horsepower from random samples and test the values for p-value and r squared to either reject or fail to reject the hypothesis.
+  
+  
