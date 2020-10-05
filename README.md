@@ -13,6 +13,7 @@
 
 The current manufacturing data meet does not design specification for all manufacturing lots in total and each lot individually as the variance is for lot 3 is way more than lot 1 and 2. 
 
+## T-Tests on Suspension Coils
 
 
 
