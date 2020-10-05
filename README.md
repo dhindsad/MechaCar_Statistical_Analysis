@@ -14,6 +14,13 @@
 The current manufacturing data meet does not design specification for all manufacturing lots in total and each lot individually as the variance is for lot 3 is way more than lot 1 and 2. 
 
 ## T-Tests on Suspension Coils
+![Screen Shot 2020-10-04 at 8 54 35 PM](https://user-images.githubusercontent.com/67085043/95031297-3c795880-0683-11eb-907c-4b0ace1d6216.png)
+![Screen Shot 2020-10-04 at 8 55 15 PM](https://user-images.githubusercontent.com/67085043/95031299-3d11ef00-0683-11eb-86dd-b460933ed364.png)
+![Screen Shot 2020-10-04 at 8 55 26 PM](https://user-images.githubusercontent.com/67085043/95031300-3daa8580-0683-11eb-9e90-816c3d134c92.png)
+![Screen Shot 2020-10-04 at 8 55 53 PM](https://user-images.githubusercontent.com/67085043/95031301-3daa8580-0683-11eb-9c67-70e2489bb7be.png)
+
+The p value for all lots in suspension Coil is 2.26 X 10^-16
+The p value for each manufacturing lot in suspension Coil is 0.5117
 
 
 
