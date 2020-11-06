@@ -14,7 +14,7 @@
 
 > lot_summary<- Suspension_Coil %>% group_by(Manufacturing_Lot) %>% summarize(Mean=mean(PSI),Median=median(PSI),Variance=var(PSI), SD=sd(PSI),.groups="keep") #create summary table with multiple columns
 
->t.test(log10(Suspension_Coil$PSI)) #compare sample versus population means
+> t.test(log10(Suspension_Coil$PSI)) #compare sample versus population means
 > t.test(subset(Suspension_Coil, Manufacturing_Lot = 'Lot1')$PSI) 
-t.test(subset(Suspension_Coil, Manufacturing_Lot = 'Lot2')$PSI) 
-t.test(subset(Suspension_Coil, Manufacturing_Lot = 'Lot3')$PSI) 
+> t.test(subset(Suspension_Coil, Manufacturing_Lot = 'Lot2')$PSI) 
+> t.test(subset(Suspension_Coil, Manufacturing_Lot = 'Lot3')$PSI) 
